@@ -9,5 +9,6 @@
   "apache-airflow-microsoft-fabric-plugin": 0,
   "AirbandData": 0,
   "airflow-providers-microsoft-fabric": 0,
-  "woodgrove-airline": 0
+  "woodgrove-airline": 0,
+  "aaq": 0
 }
